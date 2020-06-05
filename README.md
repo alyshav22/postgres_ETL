@@ -10,7 +10,7 @@ Run two files below in the order that they are listed to create the database tab
 
 <ol>
 <li>python create_tables.py - creates the database tables</li>
-<li>python etl.py - fills in tables via ETL - </li>
+<li>python etl.py - fills in tables via ETL </li>
 </ol>
 
 ## Database Schema
